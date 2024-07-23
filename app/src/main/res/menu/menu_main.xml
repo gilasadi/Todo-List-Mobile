@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.hellohasan.sqlite_multiple_three_tables_crud.features.student_crud.student_list_show.StudentListActivity">
+    tools:context="com.uassqlite.gilasadi.features.student_crud.student_list_show.StudentListActivity">
     <item
         android:id="@+id/action_show_subject"
         android:orderInCategory="100"
